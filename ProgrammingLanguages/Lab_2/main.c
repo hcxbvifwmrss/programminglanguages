@@ -21,7 +21,7 @@ void main(){
 	show(matrix, rows, cols);
 
 	revertRows(matrix, rows, cols);
-	printf("\n1)Matrix with reverted rows:\n");
+	printf("\n2)Matrix with reverted rows:\n");
 	show(matrix, rows, cols);
 
 	_getch();
